@@ -1,0 +1,6 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include"singlelinkedlist1.c"
+#include"singlelinkedlistdelete.c"
+#define out printf
+#define in scanf
